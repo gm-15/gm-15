@@ -1,4 +1,5 @@
-## Hi there 👋
+## “문제를 기능으로 끝내지 않고, 운영·정합성·확장성 관점에서 재설계할 수 있는 백엔드 엔지니어”
+ 👋
 
 <!--
 **gm-15/gm-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

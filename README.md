@@ -33,7 +33,6 @@
 - **AWS Certified Solutions Architect – Associate** (2026.03)
 - **컴퓨터활용능력 1급** (2024.05)
 - **상명해커톤 최우수상** — 팀장 (2024.08)
-- **CJ OliveNetworks Cloud Wave 7기** 캡스톤 최종 2등 (2026.02)
 - **Departmental Top Honor Scholarship** (GPA 4.09/4.5)
 
 ## 🔗 Links

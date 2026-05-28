@@ -32,7 +32,7 @@
 
 - **AWS Certified Solutions Architect – Associate** (2026.03)
 - **컴퓨터활용능력 1급** (2024.05)
-- **상명해커톤 최우수상** — 팀장 (2024.08)
+- **AWS와 함께하는 소중한 상명해커톤 최우수상** — 팀장 (2024.08)
 - **Departmental Top Honor Scholarship** (GPA 4.09/4.5)
 
 ## 🔗 Links

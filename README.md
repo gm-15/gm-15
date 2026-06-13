@@ -30,6 +30,7 @@
 
 ## Awards & Licenses 🎖
 
+- **정보처리기사** (2026.06)
 - **AWS Certified Solutions Architect – Associate** (2026.03)
 - **컴퓨터활용능력 1급** (2024.05)
 - **AWS와 함께하는 소중한 상명해커톤 최우수상** — 팀장 (2024.08)

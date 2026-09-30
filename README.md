@@ -53,7 +53,6 @@
 
 ## Links 🔗
 
-- 📓 [Portfolio](https://enshrined-streetcar-972.notion.site/Park-GunWoo-36a402afeda5809395eed9b5f899a946)
+- 📓 [Portfolio](https://enshrined-streetcar-972.notion.site/Park-GunWoo-3eb402afeda58020abacd25d1f7f3e65)
 - ✍️ [Tech Blog](https://velog.io/@gm-15)
 - 💼 [LinkedIn](https://www.linkedin.com/in/%EA%B1%B4%EC%9A%B0-%EB%B0%95-52a23434a/)
-- 📧 **gunwoo363@gmail.com**

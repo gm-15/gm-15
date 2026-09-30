@@ -13,7 +13,7 @@
 
 | 프로젝트 | 기간 | 역할 | Key Engineering | Repository |
 |---|---|---|---|---|
-| 🛒 **Clmakase**<br>대규모 트래픽 대응 클라우드 플랫폼 | 26.02 | 팀장<br>백엔드, 인프라 | 150K VU 부하 테스트, EKS에서 Aurora까지 병목 추적<br>피크 56,300 hits/s, P99 ≤180ms | [GitHub](https://github.com/gm-15/Clmakase) |
+| 🛒 **Clmakase**<br>대규모 트래픽 대응 클라우드 플랫폼 | 26.02 ~ 26.02 | 팀장<br>백엔드, 인프라 | 150K VU 부하 테스트, EKS에서 Aurora까지 병목 추적<br>피크 56,300 hits/s, P99 ≤180ms | [GitHub](https://github.com/gm-15/Clmakase) |
 | 🥬 **냉장GOAT**<br>식자재 발주 의사결정 백엔드 | 25.10 ~ ing | 캡스톤<br>백엔드 리드 | 500-thread 환경에서 락 4종 비교 및 재고 정합성 검증<br>KAMIS 6년 데이터 기반 발주 판단 기준 설계 | [GitHub](https://github.com/gm-15/naengjang-goat_backend) |
 | 📰 **INSK**<br>AI 뉴스 센싱 및 부서 추천 플랫폼 | 25.07 ~ 26.06 | 팀장<br>백엔드, 인프라 | 추천 silent failure 원인 추적, Retry/Fallback/재처리 구현<br>Redis 캐시 적용 후 3,950ms → 21.5ms | [GitHub](https://github.com/gm-15/INSK) |
 | 🅿️ **ParkingMate**<br>P2P 주차 공유 백엔드 | 25.12 ~ 26.03 | 단독 개발<br>백엔드 중심 | Transactional Outbox와 다층 락으로 예약 정합성 강화<br>Spatial Index 적용 후 EXPLAIN rows 9,880 → 378 | [GitHub](https://github.com/gm-15/ParkingMate) |
